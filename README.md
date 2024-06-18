@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyse-umwari&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- **Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com).
+- **Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com)
 - **LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@_umwari](https://x.com/_umwari)
 - **Personal Website**: [denyseumwari.com](https://denyseumwari.com)
