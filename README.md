@@ -1,10 +1,10 @@
 # Hi there, I'm Denyse Umwari 👋
-[LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
-[GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
-[Twitter](https://x.com/_umwari "Visit my Twitter")
+- [LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
+- [GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
+- [Twitter](https://x.com/_umwari "Visit my Twitter")
 
 
-Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in Software Enginnering and Embedded Systems. Here's a bit about me and my work:
+Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in **Software Enginnering and Embedded Systems**. Here's a bit about me and my work:
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Java, PHP, C, C++, Solidity, Python, SQL
@@ -33,11 +33,11 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 - **Personal Website**: [denyseumwari.com](https://denyseumwari.com)
 
 ## 💼 Experience
-- **[Student]** at **[Rwanda Coding Academy]**
+- **Student** at **Rwanda Coding Academy**
   - A software engineer student at Rwanda Coding Academy with 2 years of experience in all technologies mentioned above. 
     
 ## 🎓 Education
-- **[High School Diploma]** in **[Software Engineering and Embedded Systems]**, [Rwanda Coding Academy]
+- **High School Diploma** in **Software Engineering and Embedded Systems**, [Rwanda Coding Academy]
 
 ## 🌱 Currently Learning
 - I am currently exploring Web 3.0 technologies especially more about building dApps with Solidity.
