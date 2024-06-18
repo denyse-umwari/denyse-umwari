@@ -1,7 +1,10 @@
 # Hi there, I'm Denyse Umwari 👋
-- [LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
-- [GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
-- [Twitter](https://x.com/_umwari "Visit my Twitter")
+- ![LinkedinGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/8b2f22c8-8ae6-40ed-8ba2-7b7df6d60bc2)
+[LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
+- ![GithubCatGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/e76bb70b-9c45-4733-861c-2dfd8639859d)
+[GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
+- ![XTwitterGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/0198082f-3feb-4cce-9e72-98e3c4bbd6f3)
+[Twitter](https://x.com/_umwari "Visit my Twitter")
 
 
 Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in **Software Enginnering and Embedded Systems**. Here's a bit about me and my work:
@@ -27,10 +30,14 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyse-umwari&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- **Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com)
-- **LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@_umwari](https://x.com/_umwari)
-- **Personal Website**: [denyseumwari.com](https://denyseumwari.com)
+- ![GmailGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/f94ca8d6-5681-460b-99c6-3ab96c6b3ef4)
+**Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com)
+- ![LinkedinGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/3b6747a3-aab4-4d95-adc6-ed115e9bd9aa)
+**LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/your-profile)
+- ![XTwitterGIF](https://github.com/denyse-umwari/denyse-umwari/assets/116053152/c72117a2-4aab-44d8-acff-080e4ef668f9)
+**Twitter**: [@_umwari](https://x.com/_umwari)
+- ![Uploading WebDevelopmentWebDevelopmentAgencyInGurgaonGIF.gif…]()
+**Personal Website**: [denyseumwari.com](https://denyseumwari.com)
 
 ## 💼 Experience
 - **Student** at **Rwanda Coding Academy**
