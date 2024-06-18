@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 - **Languages**: JavaScript, Java, PHP, C, C++, Solidity, Python, SQL
 - **Frameworks/Libraries**: Express, React, Vue, Angular, Next SpringBoot, Truffle
 - **Tools**: VSCode, Postman
-- **Platforms**: Platforms you work on
+- **Platforms**: Microsoft Visual Studio, Swift, IntelliJ Idea, Eclipse
 
 ## 🔧 Projects & Highlights
 ### [Krypt](https://github.com/denyse-umwari/Krypt)
