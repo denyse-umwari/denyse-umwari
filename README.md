@@ -1,8 +1,7 @@
 # Hi there, I'm [Denyse Umwari] 👋
-
-[![LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256)
-[![GitHub](https://https://github.com/denyse-umwari)
-[![Twitter](https://x.com/_umwari)
+![LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256)
+![GitHub](https://https://github.com/denyse-umwari)
+![Twitter](https://x.com/_umwari)
 
 
 Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in [Software Enginnering and Embedded Systems]. Here's a bit about me and my work:
