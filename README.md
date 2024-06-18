@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
   - A software engineer student at Rwanda Coding Academy with 2 years of experience in all technologies mentioned above. 
     
 ## 🎓 Education
-- **High School Diploma** in **Software Engineering and Embedded Systems**, [Rwanda Coding Academy]
+- **High School Diploma** in **Software Engineering and Embedded Systems**, **Rwanda Coding Academy**
 
 ## 🌱 Currently Learning
 - I am currently exploring Web 3.0 technologies especially more about building dApps with Solidity.
