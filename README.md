@@ -1,33 +1,33 @@
-# Hi there, I'm [Denyse Umwari] 👋
-![LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256)
-![GitHub](https://https://github.com/denyse-umwari)
-![Twitter](https://x.com/_umwari)
+# Hi there, I'm Denyse Umwari 👋
+[LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
+[GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
+[Twitter](https://x.com/_umwari "Visit my Twitter")
 
 
-Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in [Software Enginnering and Embedded Systems]. Here's a bit about me and my work:
+Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer specializing in Software Enginnering and Embedded Systems. Here's a bit about me and my work:
 
 ## 🛠️ Technologies & Tools
-- **Languages**: [JavaScript, Java, PHP, C, C++, Solidity, Python, SQL]
-- **Frameworks/Libraries**: [Express, React, Vue, Angular, Next SpringBoot, Truffle]
-- **Tools**: [VSCode, Postman]
-- **Platforms**: [Platforms you work on]
+- **Languages**: JavaScript, Java, PHP, C, C++, Solidity, Python, SQL
+- **Frameworks/Libraries**: Express, React, Vue, Angular, Next SpringBoot, Truffle
+- **Tools**: VSCode, Postman
+- **Platforms**: Platforms you work on
 
 ## 🔧 Projects & Highlights
-### [Project Name](https://github.com/denyse-umwari/Krypt)
+### [Krypt](https://github.com/denyse-umwari/Krypt)
 - Web 3.0
 - Solidity
 - React Js
 
-### [Another Project](https://github.com/denyse-umwari/simple-voting-system)
+### [Simple Voting System](https://github.com/denyse-umwari/simple-voting-system)
 - Solidity
 - React JS
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=denyse-umwari&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyse-umwari&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- **Email**: [](denyseumwari850@gmail.com).
+- **Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com).
 - **LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@_umwari](https://x.com/_umwari)
 - **Personal Website**: [denyseumwari.com](https://denyseumwari.com)
