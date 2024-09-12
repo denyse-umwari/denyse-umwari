@@ -49,10 +49,11 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 - Javascript and Java frameworks especially React and Spring Boot.
 
 ## ⚡ Fun fact
-- I actually like reading documentations and novels or any ither kind of publication when I'm free.
+- I actually like reading documentations and novels or any other kind of publication when I'm free.
 
 ## 🏆 Achievements
 - A certificate at freeCodeCamp.
+- A cerificate from CODE - University of Applied Sciences.
 
 ---
 
