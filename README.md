@@ -1,5 +1,5 @@
 # Hi there, I'm Denyse Umwari 👋
-- [LinkedIn](https://www.linkedin.com/in/denyse-umwari-03ba54256 "Visit my LinkedIn")
+- [LinkedIn](https://www.linkedin.com/in/denise-umwari-03ba54256 "Visit my LinkedIn")
 - [GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
 - [Twitter](https://x.com/_umwari "Visit my Twitter")
 
