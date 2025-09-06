@@ -1,4 +1,4 @@
-# Hi there, I'm Denyse Umwari 👋
+# Hi there, I'm Denise Umwari 👋
 - [LinkedIn](https://www.linkedin.com/in/denise-umwari-03ba54256 "Visit my LinkedIn")
 - [GitHub](https://https://github.com/denyse-umwari "Visit my GitHub")
 - [Twitter](https://x.com/_umwari "Visit my Twitter")
@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I'm Denyse Umwari, a passionate developer speciali
 
 ## 📫 How to reach me
 - **Email**: [denyseumwari850@gmail.com](denyseumwari850@gmail.com)
-- **LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [denyse-umwari](https://www.linkedin.com/in/denise-umwari)
 - **Twitter**: [@_umwari](https://x.com/_umwari)
 - **Personal Website**: [denyseumwari.com](https://denyseumwari.com)
 
 ## 💼 Experience
 - **Student** at **Rwanda Coding Academy**
-  - A software engineer student at Rwanda Coding Academy with 2 years of experience in all technologies mentioned above. 
+  - A software engineer student at Rwanda Coding Academy with 3 years of experience in all technologies mentioned above. 
     
 ## 🎓 Education
 - **High School Diploma** in **Software Engineering and Embedded Systems**, **Rwanda Coding Academy**
